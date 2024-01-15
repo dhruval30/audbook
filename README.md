@@ -7,7 +7,6 @@ Audbook is a project aimed at making books more accessible to everyone. It allow
 - Next.js
 - React
 - Supabase for authentication
-- Stripe for payment processing
 - Zustand for state management
 - Tailwind CSS for styling
 - Radix UI for dialogs
